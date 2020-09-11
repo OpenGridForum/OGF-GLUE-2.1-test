@@ -5,7 +5,7 @@
 * [2. Change-log](2.-change-log.md)
 * [3. Notational Conventions](3.-notational-conventions.md)
 * [4. General Statements](4.-general-statements.md)
-* [5. Template](template.md)
+* [5. Template](5.-template.md)
 * [6. Conceptual Model of the Main Entities](untitled.md)
 * [7. Conceptual Model of the Computing Service](7.-conceptual-model-of-the-computing-service.md)
 * [8. Conceptual Model of the Cloud Computing Service](8.-conceptual-model-of-the-cloud-computing-service.md)
