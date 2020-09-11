@@ -1,0 +1,23 @@
+# Table of contents
+
+* [GLUE Specification v 2.1 \(test copy\)](README.md)
+* [1. Introduction](1.-introduction.md)
+* [2. Change-log](change-log.md)
+* [3. Notational Conventions](notational-conventions.md)
+* [4. General Statements](general-statements.md)
+* [5. Template](template.md)
+* [6. Conceptual Model of the Main Entities](untitled.md)
+* [7. Conceptual Model of the Computing Service](7.-conceptual-model-of-the-computing-service.md)
+* [8. Conceptual Model of the Cloud Computing Service](8.-conceptual-model-of-the-cloud-computing-service.md)
+* [9. Conceptual Model of the Storage Service](9.-conceptual-model-of-the-storage-service.md)
+* [10. Relationship to OGF Reference Model](10.-relationship-to-ogf-reference-model.md)
+* [11. Security Considerations](11.-security-considerations.md)
+* [12. Author Information](12.-author-information.md)
+* [13. Contributors & Acknowledgements](13.-contributors-and-acknowledgements.md)
+* [14. Intellectual Property Statement](14.-intellectual-property-statement.md)
+* [15. Disclaimer](15.-disclaimer.md)
+* [16. Full Copyright Notice](16.-full-copyright-notice.md)
+* [17. References](17.-references.md)
+* [Appendix A. Place-holder values for unknown data](appendix-a.-place-holder-values-for-unknown-data.md)
+* [Appendix B. Data Types](appendix-b.-data-types.md)
+
