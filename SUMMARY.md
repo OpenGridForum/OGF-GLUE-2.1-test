@@ -2,7 +2,7 @@
 
 * [GLUE Specification v 2.1 \(test copy\)](README.md)
 * [1. Introduction](1.-introduction.md)
-* [2. Change-log](change-log.md)
+* [2. Change-log](2.-change-log.md)
 * [3. Notational Conventions](notational-conventions.md)
 * [4. General Statements](general-statements.md)
 * [5. Template](template.md)
